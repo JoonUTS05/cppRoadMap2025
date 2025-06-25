@@ -1,11 +1,11 @@
 
 
-> **A structured journey to becoming a Software Engineer using C++**  
-> This repository tracks my weekly progress as I build foundational knowledge, solve algorithms and complete real-world C++ projects.
+**A structured journey to becoming a Software Engineer using C++**  
+This repository tracks my weekly progress as I build foundational knowledge, solve algorithms and complete real-world C++ projects.
 
 ---
 
-## 🧭 Roadmap Overview
+##  Roadmap Overview
 
 | Phase                        | Topics Covered                             |
 |-----------------------------|---------------------------------------------|
